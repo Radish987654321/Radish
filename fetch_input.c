@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-
+    
     int a = 0;
     int b = 0;
     int c = 0;
@@ -12,8 +12,8 @@ int main() {
     //add scanf code to get data from input
     //and feed those input into a, b, c, d, e, respectively.
     //only ONE line code is you need
-    //please refer page 18 of stdio.h slides
-    scanf("%d%d%d%d%d",&a,&b,&c,&d,&e);
+    //please refer page 19 of stdio.h slides
+ scanf("%d%d%d%d%d",&a,&b,&c,&d,&e);
     printf("a=%d\n", a);
     printf("b=%d\n", b);
     printf("c=%d\n", c);
