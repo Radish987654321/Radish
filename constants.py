@@ -24,7 +24,7 @@ from pygame.locals import *
 # Width of the shape block
 BWIDTH     = 30
 # Height of the shape block
-BHEIGHT    = 25
+BHEIGHT    = 30
 # Width of the line around the block
 MESH_WIDTH = 4
 
